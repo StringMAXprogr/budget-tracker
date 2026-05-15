@@ -28,7 +28,7 @@ main.py
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/budget-tracker.git
+git clone https://github.com/StringMAXprogr/budget-tracker.git
 ```
 
 Navigate into the project folder:
